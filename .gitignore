@@ -10,3 +10,9 @@ data/exports/*
 !data/incoming/.gitkeep
 !data/processed/.gitkeep
 !data/exports/.gitkeep
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+data/
